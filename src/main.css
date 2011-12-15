@@ -1,0 +1,18 @@
+@font-face{
+    font-family: "IPAexGothic";
+    src: url(ipaexg.ttf);
+    -fs-pdf-font-embed: embed;
+    -fs-pdf-font-encoding: Identity-H;
+}
+
+body {
+    font-family: "IPAexGothic";
+}
+
+h1 a {
+    color: #000;
+}
+
+p {  
+    word-wrap: break-word;  
+}
